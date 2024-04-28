@@ -37,9 +37,12 @@ h4 {
     margin-left: 20px;
 }
 
-#divider {
-    height: 1px;
-    width: auto;
+body#divider {
+    display: block;
+    height: 5px;
+    margin-right: 0px;
+    margin-left: auto;
+    width: 100%;
 }
 
 
