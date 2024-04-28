@@ -6,6 +6,11 @@ This was created as part of The Odin Project's Foundations curriculum. It showca
 - multiple pages
 - lists (ordered and unordered).
 
-Note on use
+In the second iteration, I added css elements, mainly focused on:
+- colors
+- fonts, text size, and text alignment
+- image size and placement.
+
+Note on use:
 
 The Gingerbread Cake recipe is genuinely delicious. Good luck with the other two, I've never tried them.
