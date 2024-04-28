@@ -33,16 +33,32 @@ h4 {
 }
 
 .hp-recipes {
-    font-size: 35px;
+    font-size: 33px;
     margin-left: 20px;
 }
 
 body#divider {
     display: block;
     height: 5px;
-    margin-right: 0px;
+    margin-right: auto;
     margin-left: auto;
     width: 100%;
+}
+
+#gallery {
+    grid: auto auto auto;
+    margin-right: 10px;
+    margin-left: 10px;
+    justify-content: space-evenly;
+    justify-items: end;
+    align-content: space-evenly;
+    align-items: center;
+}
+
+.hp-img {
+    height: 300px;
+    width: auto;
+    padding: 30px;
 }
 
 
