@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #A0AABB;
+    margin-top: 55px;
+    margin-left: 55px;
+    margin-right: 35px;
+    accent-color: #F8F32B;
+}
+
+h1 {
+    color: black;
+    font-size: 55px;
+}
+
+.hp-recipes {
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+div.hp-recipes {
+    column-count: auto;
+    column-width: auto;
+    column-gap: 20 px;
+    text-align: justify;
+}
