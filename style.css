@@ -61,4 +61,13 @@ body#divider {
     padding: 30px;
 }
 
-
+button {
+    background-color: #F9F762;
+    color: #2B2D42;
+    border-color: #F9F762;
+    font-size: 27px;
+    width: 100%;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
