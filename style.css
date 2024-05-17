@@ -45,20 +45,20 @@ body#divider {
     width: 100%;
 }
 
-#gallery {
-    grid: auto auto auto;
-    margin-right: 10px;
-    margin-left: 10px;
+.gallery-container {
+    display: flex;
     justify-content: space-evenly;
-    justify-items: end;
-    align-content: space-evenly;
-    align-items: center;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .hp-img {
     height: 300px;
     width: auto;
-    padding: 30px;
+    margin: 30px;
 }
 
 button {
